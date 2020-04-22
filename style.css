@@ -1,0 +1,28 @@
+body {
+   font: 16px 26px Arial, Helvetica, sans-serif; 
+   background-image: url("img/atable.jpg");
+   background-size: cover;
+   
+	
+}
+
+.page-header{
+   text-align: center;
+}
+.logo {
+   padding: 30px;
+   background-color:#202020;
+   background-repeat: no-repeat;
+   margin-top: -10px;
+   margin-left: -10px;
+   margin-right: -8px;
+ }
+
+h1 {
+   color:#ffffff;
+   margin-top: 0px;
+}
+p{
+font-size: 6em;
+color:#ffffff;
+}
