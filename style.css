@@ -1,8 +1,8 @@
 body {
-   font: 16px 26px Arial, Helvetica, sans-serif; 
-   background-image: url("img/atable.jpg");
+   font:Arial, Helvetica, sans-serif; 
+   background: url("img/atable.jpg") no-repeat;
    background-size: cover;
-   
+   margin: 0px;
 	
 }
 
@@ -15,14 +15,27 @@ body {
    background-repeat: no-repeat;
    margin-top: -10px;
    margin-left: -10px;
-   margin-right: -8px;
+ 
  }
 
 h1 {
    color:#ffffff;
    margin-top: 0px;
 }
-p{
-font-size: 6em;
+h2{
+font-size: 5em;
 color:#ffffff;
+}
+.page-header a {
+   color: #ffffff;
+   text-decoration: none;
+   font-size: 20px;
+   text-align: center;
+}
+.header-email {
+   background-image: url("img/gmail.png")
+}
+.header-phone {
+   padding-left: 25px;
+
 }
